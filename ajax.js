@@ -39,7 +39,7 @@ function redirect() {
     alert("Logout Successful!!");
     setTimeout(e => {
 
-        location.replace("logInForm.html");
+        location.replace("index.html");
     },
         0000);
 }
